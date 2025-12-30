@@ -349,7 +349,7 @@ function typeMessage() {
     const messages = [
         `Dear ${userName},`,
         "Happy New Year meri jaan ❤️✨",
-        "New year aaya hai, but meri life ka sabse beautiful part tum hi ho 💕",
+        "New year aaya hai, but meri life ka sabse beautiful part ap hi ho 💕",
         "Har din apke saath ek new beginning jaisa lagta hai ",
         "Iss saal bhi agle saal bhi aur hamesha  I choose YOU jan.",
         "Stay with me, love me, aur meri duniya ban ke rehna.💖",
@@ -508,5 +508,6 @@ function shareOnSocial(platform) {
         repeat: 1
     });
 }
+
 
 // No predefined-name handler required for single predefined input
